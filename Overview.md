@@ -6,7 +6,7 @@ This knowledge base provides practical guides to help new users get started with
 # Table of Contents
 ## Documentation
 
-- [Overview](Overview.md)
+- [Overview.md](Overview.md)
 - [Getting Started](getting-started.md)
 - [Messaging](messaging.md)
 - [Calls](calls.md)

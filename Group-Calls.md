@@ -1,15 +1,15 @@
-# Group Voice and video calls
+# Group Voice and Video calls
 WhatsApp allows you to make voice and video calls with multiple people at the same time. This is useful for group discussions, meetings, or catching up with friends and family.
 
 ## Start a Group Call from a group chat 
 1. Open the WhatsApp group.
-2. Tap on either the phone or camera icon.
-3. The call begins
+2. Click on either the phone or camera icon.
+3. The group call starts, and other members can join.
 4. Other members can see that the call is in progress and join the call if they want.
 
 ## Add People During a Call 
 1. During the call, click the (⋮) More options icon
-2. Tap the Add participant option.
+2. Click the Add participant option.
 3. Select the contact you want to invite.
 4. The person will receive an invitation to join the call.
 

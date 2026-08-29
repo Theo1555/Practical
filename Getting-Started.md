@@ -1,7 +1,7 @@
 # Summary
 Getting started with WhatsApp is very simple. WhatsApp lets you stay connected from your computer through either the WhatsApp Desktop app or WhatsApp Web. This section guides you through downloading and installing WhatsApp Desktop, accessing WhatsApp Web, and linking your WhatsApp account to your computer.
 
-## Perequisite
+## Prerequisite
 This section is intended for users who have not yet installed WhatsApp on their laptop or linked their existing WhatsApp account to their computer.
 
 Before you begin, make sure you have:
@@ -11,10 +11,10 @@ Before you begin, make sure you have:
 3. Access to your phone to complete the account-linking process.
 
 ## Choose how to use WhatsApp
-You can access WhatsApp on your computer in two ways
+You can access WhatsApp on your computer in two ways:
 
 ### WhatsApp Desktop
-1. Download and install the WhatsApp application on your computer, either a Windows pc or a Mac.
+1. Download and install the WhatsApp application on your computer, either a Windows Pc or a Mac.
 2. Open the application, then proceed to link with your WhatsApp account.
 
 ### WhatsApp Web

@@ -5,7 +5,7 @@ This knowledge base provides practical guides to help new users get started with
 
 # Table of Contents
 - [Overview.md](Overview.md)
-- [Getting Started.md](Getting-started.md)
+- [Getting Started.md](Getting-Started.md)
 - [Messaging](./Messaging.md)
 - [Calls](Calls.md)
 - [Group Calls](Group-Calls.md)
@@ -17,6 +17,7 @@ This knowledge base provides practical guides to help new users get started with
 - [Troubleshooting](Troubleshooting.md)
 
 
+> **Disclaimer:** This documentation is a practice project created for learning and portfolio purposes. It is not affiliated with, endorsed by, or officially provided by WhatsApp or Meta. Interface elements and features described may vary depending on the WhatsApp version and platform.
 
 
 

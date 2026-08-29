@@ -8,7 +8,7 @@ This knowledge base provides practical guides to help new users get started with
 
 - [Overview.md](Overview.md)
 - [Getting Started.md](getting-started.md)
-- [Messaging](messaging.md)
+- [Messaging.md](messaging.md)
 - [Calls](calls.md)
 - [Group Calls](Group-calls.md)
 - [Sharing Photos and Videos](sharing-photos-and-videos.md)

@@ -1,5 +1,5 @@
 # Introduction 
-WhatsApp allows you to manage your contacts directly from the desktop application. This section provides a step-by-step guide to finding, viewing, and  managing contacts on WhatsApp.
+WhatsApp allows you to manage your contacts directly from the desktop application. This section provides a step-by-step guide to finding, viewing, and managing contacts on WhatsApp.
 
 ## Adding A New Contact
 1. Open WhatsApp.

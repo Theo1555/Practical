@@ -10,7 +10,7 @@ WhatsApp allows users to create and manage group conversations with multiple con
 
 <img width="1080" height="608" alt="Open the chat with the contact (8)" src="https://github.com/user-attachments/assets/1545e9d6-cfba-491b-8fae-0a7d016f738e" />
 
-WhatsApp Group will be created.
+The WhatsApp Group will be created.
 
 
 

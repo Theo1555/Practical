@@ -1,5 +1,5 @@
 # Introduction 
-WhatsApp allows you to manage your contacts directly from the desktop application. This section provides a step-by-step guide to finding, viewing and  managing contacts on WhatsApp.
+WhatsApp allows you to manage your contacts directly from the desktop application. This section provides a step-by-step guide to finding, viewing, and  managing contacts on WhatsApp.
 
 ## Adding A New Contact
 1. Open WhatsApp.
@@ -23,7 +23,7 @@ Your WhatsApp chat with the selected contact will open.
 
 ## Viewing Contact Information
 1. Open WhatsApp.
-2. Open the chat with contact.
+2. Open the chat with the contact.
 3. Click the contact name at the top of the chat.
 4. View the available contact information.
 

@@ -4,13 +4,20 @@ WhatsApp is a messaging and communication platform that allows users to send mes
 This knowledge base provides practical guides to help new users get started with WhatsApp, understand its core features, configure their account, and manage important privacy and permission settings.
 
 # Table of Contents
-1. [Getting started](getting-started.md)
-2. [Messaging](messaging.md)
-3. [Calls](calls.md)
-4. [Group Calls](Group-calls.md)
-5. [Sharing Photos and Videos](sharing-photos-and-videos.md)
-6. [WhatsApp Status](whatsapp-status.md)
-7. [Contacts](contacts.md)
-8. [Groups](groups.md)
-9. [Privacy & Security](privacy--security.md)
-10. [Troubleshooting](troubleshooting.md)
+## Documentation
+
+- [Overview](Overview.md)
+- [Getting Started](getting-started.md)
+- [Messaging](messaging.md)
+- [Calls](calls.md)
+- [Group Calls](Group-calls.md)
+- [Sharing Photos and Videos](sharing-photos-and-videos.md)
+- [WhatsApp Status](whatsapp-status.md)
+- [Contacts](contacts.md)
+- [Groups](groups.md)
+- [Privacy and Security](privacy-and-security.md)
+- [Troubleshooting](troubleshooting.md)
+
+
+
+

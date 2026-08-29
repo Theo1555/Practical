@@ -15,16 +15,16 @@ The documentation focuses on task-based guidance, practical workflows, screensho
 The complete documentation is organized into individual guides:
 
 * [**Overview**](Overview.md) — Introduction to the knowledge base and its documentation structure.
-* [**Getting Started**](getting-started.md) — Initial setup and basic requirements.
-* [**Messaging**](messaging.md) — Sending, replying to, forwarding, and searching for messages.
-* [**Calls**](calls.md) — Making and managing voice and video calls.
-* [**Group Calls**](Group-calls.md) — Starting group calls and managing participants.
-* [**Sharing Photos and Videos**](sharing-photos-and-videos.md) — Sending, downloading, and managing media.
-* [**WhatsApp Status**](whatsapp-status.md) — Creating, viewing, and managing status updates.
-* [**Contacts**](contacts.md) — Adding, searching, viewing, and blocking contacts.
-* [**Groups**](groups.md) — Creating and managing WhatsApp groups.
-* [**Privacy & Security**](privacy--security.md) — Managing privacy and security settings.
-* [**Troubleshooting**](troubleshooting.md) — Guidance for resolving common issues.
+* [**Getting Started**](Getting-Started.md) — Initial setup and basic requirements.
+* [**Messaging**](Messaging.md) — Sending, replying to, forwarding, and searching for messages.
+* [**Calls**](Calls.md) — Making and managing voice and video calls.
+* [**Group Calls**](Group-Calls.md) — Starting group calls and managing participants.
+* [**Sharing Photos and Videos**](Sharing-Photos-and-Videos.md) — Sending, downloading, and managing media.
+* [**WhatsApp Status**](Whatsapp-Status.md) — Creating, viewing, and managing status updates.
+* [**Contacts**](Contacts.md) — Adding, searching, viewing, and blocking contacts.
+* [**Groups**](Groups.md) — Creating and managing WhatsApp groups.
+* [**Privacy & Security**](Privacy--Security.md) — Managing privacy and security settings.
+* [**Troubleshooting**](Troubleshooting.md) — Guidance for resolving common issues.
 
 ## Documentation Approach
 

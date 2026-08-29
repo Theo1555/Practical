@@ -23,7 +23,7 @@ The complete documentation is organized into individual guides:
 * [**WhatsApp Status**](Whatsapp-Status.md) — Creating, viewing, and managing status updates.
 * [**Contacts**](Contacts.md) — Adding, searching, viewing, and blocking contacts.
 * [**Groups**](Groups.md) — Creating and managing WhatsApp groups.
-* [**Privacy & Security**](Privacy--Security.md) — Managing privacy and security settings.
+* [**Privacy and Security**](Privacy--Security.md) — Managing privacy and security settings.
 * [**Troubleshooting**](Troubleshooting.md) — Guidance for resolving common issues.
 
 ## Documentation Approach

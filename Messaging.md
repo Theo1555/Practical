@@ -5,14 +5,14 @@ WhatsApp provides several ways to communicate with other users. This section gui
 1. Open the chat with the contact.
 2. Click the message field.
 3. Type your message.
-4.  Press Enter or click the Send button.
+4. Press Enter or click the Send button.
 
 <img width="600" height="508" alt="Open the chat with the contact" src="https://github.com/user-attachments/assets/f734954d-2779-499a-8a3e-4d3ac3c7492a" />
 
 # Sending Voice Message 
 WhatsApp allows you to communicate using voice messages when typing isn't convenient. This section explains how to record and send a voice message using WhatsApp on your laptop.
 
-## Perequisite 
+## PRerequisite 
 Before you begin, make sure:
 
    * You have an active WhatsApp chat open.

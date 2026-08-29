@@ -43,7 +43,7 @@ The caption will appear alongside the media in the conversation.
 
 ## Dragging and Dropping Media
 
-WhatsApp supports dragging and dropping media 
+WhatsApp supports drag-and-drop for photos and videos.
 
 1. Open the chat with the contact or group you want to send the media to.
 2. Open File Explorer on your laptop
@@ -87,4 +87,4 @@ You can delete photos or videos that you have sent in a chat.
 3. Select Delete.
 4. Choose the appropriate deletion option.
 
-Depending on the message and available options, you may be able to delete the media for yourself or for everyone in the conversatio
+Depending on the message and available options, you may be able to delete the media for yourself or for everyone in the conversation.

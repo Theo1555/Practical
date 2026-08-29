@@ -4,7 +4,7 @@ WhatsApp is a messaging and communication platform that allows users to send mes
 This knowledge base provides practical guides to help new users get started with WhatsApp, understand its core features, configure their account, and manage important privacy and permission settings.
 
 # Table of Contents
-1. [Getting Started](getting-started)
+1. [Getting-Started](getting-started)
 2. [Messaging](messaging)
 3. [Make Calls](make-calls)
 4. [Making Calls 2.0](making-calls-20)

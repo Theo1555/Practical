@@ -5,18 +5,18 @@ This knowledge base provides practical guides to help new users get started with
 
 # Table of Contents
 - [Overview.md](Overview.md)
-- [Getting Started.md](getting-started.md)
-- [Messaging](./messaging.md)
-- [Calls](calls.md)
-- [Group Calls](Group-calls.md)
-- [Sharing Photos and Videos](sharing-photos-and-videos.md)
-- [WhatsApp Status](whatsapp-status.md)
-- [Contacts](contacts.md)
-- [Groups](groups.md)
-- [Privacy and Security](privacy-and-security.md)
-- [Troubleshooting](troubleshooting.md)
+- [Getting Started.md](Getting-started.md)
+- [Messaging](./Messaging.md)
+- [Calls](Calls.md)
+- [Group Calls](Group-Calls.md)
+- [Sharing Photos and Videos](Sharing-Photos-and-Videos.md)
+- [WhatsApp Status](WhatsApp-Status.md)
+- [Contacts](Contacts.md)
+- [Groups](Groups.md)
+- [Privacy and Security](Privacy-and-Security.md)
+- [Troubleshooting](Troubleshooting.md)
 
-- [Messaging](Messaging.md)
+
 
 
 

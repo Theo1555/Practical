@@ -1,7 +1,7 @@
-# Group Voice and Video calls
+# Group Voice and Video Calls
 WhatsApp allows you to make voice and video calls with multiple people at the same time. This is useful for group discussions, meetings, or catching up with friends and family.
 
-## Start a Group Call from a group chat 
+## Start a Group Call from a Group Chat 
 1. Open the WhatsApp group.
 2. Click on either the phone or camera icon.
 3. The group call starts, and other members can join.

@@ -9,13 +9,13 @@ WhatsApp allows you to make video & voice calls directly from your laptop. This 
 ## Making Voice Call
 1. Open WhatsApp.
 2. Open the chat with the person you want to call.
-3. Tap the phone icon at the top of the chat.
+3. Click the phone icon at the top of the chat.
 4. WhatsApp will start the voice call.
 
 ## Making Video Call
 1. Open WhatsApp.
 2. Open the chat with the person you want to call.
-3. Tap the video camera icon at the top of the chat.
+3. Click the video camera icon at the top of the chat.
 4. WhatsApp will start the call.
 
 

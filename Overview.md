@@ -7,7 +7,7 @@ This knowledge base provides practical guides to help new users get started with
 ## Documentation
 
 - [Overview.md](Overview.md)
-- [Getting Started](getting-started.md)
+- [Getting Started.md](getting-started.md)
 - [Messaging](messaging.md)
 - [Calls](calls.md)
 - [Group Calls](Group-calls.md)
